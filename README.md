@@ -226,7 +226,7 @@ This tool is designed in full compliance with the [APRA Statement of Ethics](htt
 
 ## License
 
-This project is provided under the MIT License for educational and demonstration purposes.
+This project is licensed under CC BY-NC 4.0 - free for personal use, no commercial use allowed. 
 
 ```
 Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
