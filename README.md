@@ -2,7 +2,7 @@
 
 > Automated prospect research tool for nonprofit development teams, analyzing Fortune 500 companies for donor cultivation.
 
-![Dashboard Preview](minnesota_prospect_dashboard.png)
+![Dashboard Preview](minnesota_prospect_dashboard[1].png)
 
 ## Overview
 
