@@ -244,16 +244,6 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 ```
 
----
-
-## Author
-
-**[Your Name]**  
-[Your Email]  
-[Your LinkedIn]
-
----
-
 ## Acknowledgments
 
 - SEC EDGAR for providing free access to company filings
