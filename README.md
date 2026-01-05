@@ -226,22 +226,8 @@ This tool is designed in full compliance with the [APRA Statement of Ethics](htt
 
 ## License
 
-This project is licensed under CC BY-NC 4.0 - free for personal use, no commercial use allowed. 
+This project is licensed under CC BY-NC 4.0 - free for personal use, no commercial use allowed. - see the https://github.com/dextersrobot/nonprofit-prospect-research-tool/blob/5cdbaa73571f9bc15ae9451be2d80a318724e55f/LICENSE.txt file for details. 
 
-```
-Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
-Copyright (c) 2025 dextersrobot
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- NonCommercial — You may NOT use the material for commercial purposes.
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-```
 
 ---
 
